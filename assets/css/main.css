@@ -2235,6 +2235,7 @@ input, select, textarea {
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
+		padding: 0;
 	}
 	#intro p {
 		font-size: 2rem;
